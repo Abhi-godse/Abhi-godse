@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Abhi-godse</h1>
+<h1 align="center">Hi there! 👋 I'm Abhi</h1>
 <p align="center">
 🚀 Passionate about SAP, Web Development, and AI  
 </p>
@@ -7,10 +7,9 @@
 
 ## 🔥 About Me  
 - 🎓 **Computer Science Student** at GITAM University, Bangalore  
-- 🔭 Currently working on **SAP projects & Web Development**  
+- 🔭 Currently working on **SAP & Web Development projects**  
 - 🌱 Exploring **SAPUI5, MongoDB, and Full-Stack Development**  
-- 💡 Enthusiastic about **Cloud Computing & Cybersecurity**  
-- 💬 Ask me about **SAP, MongoDB, C Programming, or Software Development**  
+- 💬 Feel free to ask me about **SAP, Full-Stack Development, or Databases**  
 
 ---
 
@@ -46,10 +45,10 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/svabhilash/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sattaruvenkataabhilash@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/Abhi-godse">
