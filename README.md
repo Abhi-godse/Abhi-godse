@@ -44,7 +44,6 @@
 ![SAP S/4HANA](https://img.shields.io/badge/SAP%20S/4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
 
 ### **Cloud Computing:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
