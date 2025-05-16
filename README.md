@@ -1,9 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&pause=1000&color=0FAAFF&width=435&lines=🚀+Hi+there!+I'm+Abhi+👋;SAP+Developer+%7C+Web+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=600&lines=🚀+Hi+there!+I'm+Abhi+👋;SAP+Developer+%7C+Full-Stack+Learner+%7C+AI+Explorer;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FAAFF&width=435&lines=🌟+About+Me;Computer+Science+Student;SAP+%7C+Web+Dev+Explorer" alt="Typing SVG" />
 </p>
 
 
