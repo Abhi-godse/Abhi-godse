@@ -3,6 +3,11 @@
 </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=600&lines=🚀+Hi+there!+I'm+Abhi+👋;SAP+Developer+%7C+Full-Stack+Learner+%7C+AI+Explorer;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/89788178/235298118-4c98504d-7c3a-4d30-b2a7-ccc3d89c45ac.gif" width="250"/>
 </p>
 
