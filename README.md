@@ -1,36 +1,22 @@
-<!-- Orbitron font import -->
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;800&display=swap" rel="stylesheet" />
-
-<!-- True 3D Header -->
-<h1 align="center" style="
-  font-family: 'Orbitron', sans-serif;
-  font-size: 60px;
-  font-weight: 800;
-  color: #00f0ff;
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  background: linear-gradient(135deg, #0f0f0f, #000000);
-  padding: 40px 20px;
-  border-radius: 30px;
-  margin: 40px auto;
-  text-shadow:
-    2px 2px 0 #0ff,
-    4px 4px 0 #00c2ff,
-    6px 6px 10px rgba(0,255,255,0.4),
-    0 0 30px #00ffff;
-  box-shadow:
-    0 0 25px #00f0ff,
-    0 0 50px #00f0ff33,
-    0 0 80px #00f0ff22;
-  max-width: fit-content;
-">
-  🚀 WELCOME, I'M <span style="color:#ffdf00;">ABHI</span> 👨‍💻
-</h1>
-
-<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=💡+SAP+Developer+%7C+Full+Stack+Learner+%7C+AI+Explorer;👨‍💻+Code.+Innovate.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F6F6F6&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Welcome+to+Abhi's+World+of+Code!;💻+SAP+UI5+%7C+Full-Stack+Dev+%7C+AI+Explorer;⚡+Problem+Solver+%7C+Tech+Tinkerer+%7C+Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+<pre align="center">
+<code>
+
+  █████╗ ██████╗ ██╗  ██╗██╗██╗     
+ ██╔══██╗██╔══██╗██║ ██╔╝██║██║     
+ ███████║██████╔╝█████╔╝ ██║██║     
+ ██╔══██║██╔═══╝ ██╔═██╗ ██║██║     
+ ██║  ██║██║     ██║  ██╗██║███████╗
+ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝
+</code>
+</pre>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Creator-green?style=for-the-badge&logo=protonmail" />
+  <img src="https://img.shields.io/badge/Tools-SAPUI5%2C%20MongoDB%2C%20React-blue?style=for-the-badge&logo=stackshare" />
 </p>
 
 <p align="center">
