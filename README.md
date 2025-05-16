@@ -1,26 +1,33 @@
+<!-- Header Title with Strong 3D Effects -->
 <h1 align="center" style="
   font-family: 'Orbitron', sans-serif;
-  font-size: 50px;
-  color: #ffffff;
-  background: linear-gradient(135deg, #0FAAFF, #002244);
-  padding: 25px 20px;
-  border-radius: 20px;
-  margin: 30px auto;
+  font-size: 55px;
+  font-weight: 900;
+  color: #0FAAFF;
+  background: radial-gradient(circle at center, #000000 20%, #0FAAFF 100%);
+  padding: 40px;
+  border-radius: 30px;
   width: fit-content;
+  margin: 40px auto;
   text-shadow: 
-    2px 2px 0 #000000, 
-    4px 4px 0 #0FAAFF, 
-    6px 6px 15px rgba(0,0,0,0.6);
-  box-shadow: 
-    0 8px 30px rgba(15,170,255,0.6),
-    inset 0 2px 6px rgba(255,255,255,0.1);
+    0 2px 0 #222, 
+    0 4px 0 #111, 
+    0 6px 2px rgba(0,0,0,0.4), 
+    0 8px 10px rgba(0,0,0,0.3),
+    2px 2px 15px #0FAAFF;
+  box-shadow:
+    0 10px 25px rgba(0, 255, 255, 0.4),
+    inset 0 2px 8px rgba(255,255,255,0.1),
+    inset 0 -2px 8px rgba(0,0,0,0.2);
 ">
-  🎯 Hi there! 👋 I'm <span style="color:#FFD700;">Abhi</span>
+  🎯 WELCOME, I'm <span style="color:#FFD700;">ABHI</span> 🚀
 </h1>
 
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=600&lines=SAP+Developer+%7C+Full+Stack+Learner+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=💡+SAP+Developer+%7C+Full+Stack+Learner+%7C+AI+Explorer;👨‍💻+Code.+Innovate.+Repeat." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89788178/235298118-4c98504d-7c3a-4d30-b2a7-ccc3d89c45ac.gif" width="250"/>
