@@ -1,19 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F6F6F6&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Welcome+to+Abhi's+World+of+Code!;💻+SAP+UI5+%7C+Full-Stack+Dev+%7C+AI+Explorer;⚡+Problem+Solver+%7C+Tech+Tinkerer+%7C+Lifelong+Learner" alt="Typing SVG" />
-</p>
+<div style="background:#0d0d0d; min-height:100vh; font-family:'Orbitron', sans-serif; color:white; padding:40px; text-align:center;">
 
-<pre align="center">
-<code>
-
-  █████╗ ██████╗ ██╗  ██╗██╗██╗     
- ██╔══██╗██╔══██╗██║ ██╔╝██║██║     
- ███████║██████╔╝█████╔╝ ██║██║     
- ██╔══██║██╔═══╝ ██╔═██╗ ██║██║     
- ██║  ██║██║     ██║  ██╗██║███████╗
- ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝
-</code>
-</pre>
-
+  <!-- 3D Title -->
+  <h1 style="
+    font-size:3.5rem;
+    text-transform:uppercase;
+    background: linear-gradient(90deg, #00f0ff, #ff00f0, #00f0ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientMove 3s infinite;
+    text-shadow: 0px 0px 10px #00f0ff;
+  ">
+    🚀 Welcome, I'm Abhi 👨‍💻
+  </h1>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Mindset-Creator-green?style=for-the-badge&logo=protonmail" />
   <img src="https://img.shields.io/badge/Tools-SAPUI5%2C%20MongoDB%2C%20React-blue?style=for-the-badge&logo=stackshare" />
