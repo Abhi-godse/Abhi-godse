@@ -43,10 +43,6 @@
 ![SAPUI5](https://img.shields.io/badge/SAPUI5-35495E?style=for-the-badge&logo=sap&logoColor=white)  
 ![SAP S/4HANA](https://img.shields.io/badge/SAP%20S/4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
 
-### **Cloud Computing:**  
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-
 ### **Tools & UI/UX:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
