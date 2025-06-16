@@ -15,7 +15,6 @@
   
 <p align="center">
   <img src="https://img.shields.io/badge/Mindset-Creator-green?style=for-the-badge&logo=protonmail" />
-  <img src="https://img.shields.io/badge/Tools-SAPUI5%2C%20MongoDB%2C%20React-blue?style=for-the-badge&logo=stackshare" />
 </p>
 
 <p align="center">
